@@ -1,4 +1,4 @@
-# The-Total-Solution-Of-A-Cronjob-Scheduler
+# Full-Solution-Of-A-Cronjob-Scheduler
 
 1. Crontab expression parser function
 2. Total solution of a cronjob scheduler
